@@ -1,0 +1,14 @@
+layout_spectrum: 0.9441548623144627
+typography_spectrum: 0.25100669427774847
+color:
+  brandStrength: 0.642293666722253
+  lightness: 0.525450519984588
+  saturation: 0.795025534927845
+  rhythmicContrast: 0.23666129959747195
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: istumbl
